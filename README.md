@@ -4,7 +4,7 @@ This repository contains a collection of polarity shifter resources connected to
 - **[Schulder et al. (IJCNLP 2017)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level) and sentiment verb phrase dataset.
 - **[Schulder et al. (LREC 2018)](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level).
 - **[Schulder et al. (COLING 2018)](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level).
-- **[Schulder et al. (to be submitted)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+- **[Schulder et al. (under review)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 
 
 ## Data
