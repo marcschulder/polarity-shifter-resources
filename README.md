@@ -132,6 +132,6 @@ M. Schulder, M. Wiegand, J. Ruppenhofer and S. Köser (2018). "Introducing a Lex
 
 M. Schulder, M. Wiegand and J. Ruppenhofer (2018). "Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German", in Proceedings of COLING, 2018.
 
-M. Schulder, M. Wiegand and J. Ruppenhofer (to be submitted). "Bootstrapped Creation of a Lexicon of Sentiment Polarity Shifters".
+M. Schulder, M. Wiegand and J. Ruppenhofer (under review). "Bootstrapped Creation of a Lexicon of Sentiment Polarity Shifters".
 
 R. Socher, A. Perelygin, J. Wu, J. Chuang, C. Manning, A. Ng, C. Potts: "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank", in Proceedings of EMNLP, 2013.
