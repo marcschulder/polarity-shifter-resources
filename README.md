@@ -1,12 +1,15 @@
 # Polarity Shifter Resources
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365605.svg)](https://doi.org/10.5281/zenodo.3365605)
 
-This repository contains a collection of polarity shifter resources connected to a number of publications:
+This repository was created as part of Marc Schulder's doctoral thesis [_Sentiment Polarity Shifters: Creating Lexical Resources through Manual Annotation and Bootstrapped Machine Learning_](https://dx.doi.org/10.22028/D291-28454)
+
+The collection of polarity shifter resources presented herein are also connected to a number of publications:
 
 - **[Schulder et al. (IJCNLP 2017)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level) and sentiment verb phrase dataset.
 - **[Schulder et al. (LREC 2018)](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level).
 - **[Schulder et al. (COLING 2018)](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level).
 - **[Schulder et al. (under review)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+
 
 
 ## Data
