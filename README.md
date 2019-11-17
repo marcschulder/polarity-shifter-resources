@@ -121,6 +121,8 @@ The file starts with 400 phrases containing shifter verbs, followed by 2231 phra
 ## Attribution
 This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE).
 
+If you use it in your research or work, please cite the relevant publication(s) (see above).
+
 ## Acknowledgements
 This work was partially supported by the German Research Foundation (DFG) under grants RU 1873/2-1 and WI4204/2-1.
 
