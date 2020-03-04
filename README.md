@@ -8,8 +8,8 @@ The collection of polarity shifter resources presented herein are also connected
 - **[Schulder et al. (IJCNLP 2017)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level) and sentiment verb phrase dataset.
 - **[Schulder et al. (LREC 2018)](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level).
 - **[Schulder et al. (COLING 2018)](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level).
-- **[Schulder et al. (under review)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
-
+- **[Schulder et al. (LREC 2020)](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
+- **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 
 
 ## Data
@@ -135,10 +135,12 @@ G. Miller, R. Beckwith, C. Fellbaum, D. Gross, K. Miller: "Introduction to WordN
 
 M. Schulder, M. Wiegand, J. Ruppenhofer and B. Roth (2017). "Towards Bootstrapping a Polarity Shifter Lexicon using Linguistic Features", in Proceedings of IJCNLP, 2017.
 
-M. Schulder, M. Wiegand, J. Ruppenhofer and S. Köser (2018). "Introducing a Lexicon of Verbal Polarity Shifters for English", in Proceedings of LREC,  2018.
+M. Schulder, M. Wiegand, J. Ruppenhofer and S. Köser (2018). "Introducing a Lexicon of Verbal Polarity Shifters for English", in Proceedings of LREC, 2018.
 
 M. Schulder, M. Wiegand and J. Ruppenhofer (2018). "Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German", in Proceedings of COLING, 2018.
 
-M. Schulder, M. Wiegand and J. Ruppenhofer (under review). "Bootstrapped Creation of a Lexicon of Sentiment Polarity Shifters".
+M. Schulder, M. Wiegand, J. Ruppenhofer (2020). "Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions", in Proceedings of LREC, 2020.
+
+M. Schulder, M. Wiegand and J. Ruppenhofer (forthcoming). "Bootstrapped Creation of a Lexicon of Sentiment Polarity Shifters".
 
 R. Socher, A. Perelygin, J. Wu, J. Chuang, C. Manning, A. Ng, C. Potts: "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank", in Proceedings of EMNLP, 2013.
