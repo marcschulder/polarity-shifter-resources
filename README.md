@@ -141,6 +141,6 @@ M. Schulder, M. Wiegand and J. Ruppenhofer (2018). "Automatically Creating a Lex
 
 M. Schulder, M. Wiegand, J. Ruppenhofer (2020). "Enhancing a Lexicon of Polarity Shifters through the Supervised Classification of Shifting Directions", in Proceedings of LREC, 2020.
 
-M. Schulder, M. Wiegand and J. Ruppenhofer (forthcoming). "Bootstrapped Creation of a Lexicon of Sentiment Polarity Shifters".
+M. Schulder, M. Wiegand and J. Ruppenhofer (forthcoming). "Automatic Generation of Lexica for Sentiment Polarity Shifters".
 
 R. Socher, A. Perelygin, J. Wu, J. Chuang, C. Manning, A. Ng, C. Potts: "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank", in Proceedings of EMNLP, 2013.
