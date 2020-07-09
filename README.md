@@ -9,7 +9,7 @@ The collection of polarity shifter resources presented herein are also connected
 - **[Schulder et al. (LREC 2018)](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (manual, sense-level).
 - **[Schulder et al. (COLING 2018)](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level).
 - **[Schulder et al. (LREC 2020)](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
-- **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+- **[Schulder et al. (JNLE 2020)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 
 
 ## Data
